@@ -17,7 +17,6 @@ destination, stored as City* data type, and prints out the path to the console.
 
 RouteMap::RouteMap(){};
 
-//destructor. it should delete all the new City* objects but i dont know how to do that :(
 RouteMap::~RouteMap()
 {
     //City* deletecities = 
