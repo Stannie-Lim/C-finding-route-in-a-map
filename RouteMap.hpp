@@ -1,6 +1,5 @@
 /*
 Name: Stanley Lim
-7/5/2019
 Takes in a .csv file containing names of cities on the first line, separated by commas
 and available destinations from that city on the second line, separated by - and commas.
 After reading the .csv file, it computes the shortest available path from origin to 
